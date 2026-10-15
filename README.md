@@ -7,7 +7,7 @@ Microcontroller : At89s52
 ## EXPERIMENTS INDEX : 
 
 # CAT 2 : 
-TASK 1 : [cat2_task1.c] (CAT2/TASK1/cat2_task1.c)
+TASK 1 : [cat2_task1.c](CAT2/TASK1/cat2_task1.c)
 
 
 
